@@ -5,7 +5,7 @@
 
 ## Evidencia
 
-![Certificado Python Pandas](./evidencia_python_pandas.png)
+![Certificado Python Pandas](./python_pandas.png)
 
 ## Link
 https://app.datacamp.com/learn/courses/data-manipulation-with-pandas
